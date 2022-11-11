@@ -25,7 +25,7 @@ class LoginPage extends StatelessWidget {
                                 fontSize: 32,
                                 fontWeight: FontWeight.bold))),
                     SizedBox(
-                      height: 20,
+                      height: 50,
                     ),
                     TextFormField(
                       controller: c.usernameController,
@@ -59,8 +59,8 @@ class LoginPage extends StatelessWidget {
                                   },
                                   icon: Icon(
                                     c.isObscured.isTrue
-                                        ? Icons.visibility_off
-                                        : Icons.visibility,
+                                        ? Icons.visibility_off_rounded
+                                        : Icons.visibility_rounded,
                                     color: Colors.grey,
                                   )),
                               focusColor: Colors.green,
@@ -69,7 +69,7 @@ class LoginPage extends StatelessWidget {
                                   borderRadius: BorderRadius.circular(10))),
                         )),
                     const SizedBox(
-                      height: 16,
+                      height: 20,
                     ),
                     GestureDetector(
                       onTap: () {

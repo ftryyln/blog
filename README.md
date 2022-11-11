@@ -1,16 +1,12 @@
-# blog
+# Blog
+Aplikasi blog yang dapat menampilkan artikel-artikel
 
-A new Flutter project.
+# Feature
+- GetX
+- Dio
+- MVC
+- Lottie Animation
+- Infinite Scroll Pagination
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Demo App
+![Screenshot aplikasi.](https://github.com/ftryyln/pokedex/blog/master/gitassets/blog.gif?raw=true "Screenshot aplikasi.")
