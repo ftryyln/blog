@@ -9,4 +9,4 @@ Aplikasi blog yang dapat menampilkan artikel-artikel
 - Infinite Scroll Pagination
 
 # Demo App
-![Screenshot aplikasi.](https://github.com/ftryyln/pokedex/blog/master/gitassets/blog.gif?raw=true "Screenshot aplikasi.")
+![Screenshot aplikasi.](https://github.com/ftryyln/blog/blob/master/gitassets/blog.gif?raw=true "Screenshot aplikasi.")
